@@ -11,7 +11,7 @@ document.write(mobil [1])
 
 var makanan = [
     'bakso',
-    'nasi goremg',
+    'nasi goremg', mobil = ['bmw', 'toyota', 'avanza']
     ['batagor', 'tekwan', 'model', ['tahu bulat', 'sate kambing', ['nasi padang', 'nasi uduk']]]]
 
     document.write (makanan [1])
